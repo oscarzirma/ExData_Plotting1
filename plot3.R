@@ -1,5 +1,5 @@
 plot3 <- function()
-  #This function imports household energy usage data and plot a time series of household active power usage over time
+  #This function imports household energy usage data and plot a time series of household sub metering over time
   
   #Read data
   D <- data.frame()
